@@ -164,8 +164,7 @@ paths:
       operationId: SessionsController_create
       summary: Create a session
       description: >-
-        Create session a new session (and start it at the same time if
-        required). The requestBody has a placeholder for session name which should be replaced by user's phone number
+        Create session a new session (and start it at the same time if required).
       parameters: []
       requestBody:
         required: true
